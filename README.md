@@ -7,6 +7,7 @@ All the methods that executes the functionalities are located in the CommandLine
 ModelMapper was used to convert the DTO's to POJO and vice versa.
 
 ===================================================================
+
 **FUNCTIONALITY EXPLANATION**
 
 seedData() - creates users and inserts them in the database by reading the information from a txt file located in "resources" folder
