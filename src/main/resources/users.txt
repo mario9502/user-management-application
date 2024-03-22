@@ -1,0 +1,9 @@
+Mario Penkov 1995-02-10 0878999999 mario@mail.com
+John Doe 1990-12-10 0878999998 john@mail.com
+Harry Potter null 0878999997 potter@mail.com
+Jack Sparrow 1977-12-31 0878999996 jack@mail.com
+John Cena 1981-10-10 0878999995 cena@mail.com
+Douglas McKeil 1969-07-01 0878999994 doug@mail.com
+Preslav Tsvetanov null 0878999993 ptsvetanov@mail.com
+Nikola Penkov 2006-12-10 0878999992 nikola@mail.com
+Ivan Angelov 1993-08-22 0878999991 vanko1@mail.com
