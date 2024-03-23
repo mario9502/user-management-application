@@ -2,7 +2,7 @@ package usermanagementapp.service.dtos;
 
 import java.time.LocalDate;
 
-public class ReadUserDto {
+public class ReadUserDto implements Serializable {
 
     private String firstName;
     private String lastName;
